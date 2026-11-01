@@ -11,7 +11,7 @@ joblib==1.6.0
 limits==5.8.0
 MarkupSafe==3.0.4
 narwhals==2.27.1
-numpy==2.5.4
+numpy==2.3.3
 nvidia-nccl-cu13==2.32.3
 ordered-set==4.1.0
 packaging==26.3
